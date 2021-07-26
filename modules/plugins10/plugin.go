@@ -14,9 +14,9 @@ func InitPlugin(r *route.Route) {
 }
 
 func DoErr() {
-	fmt.Println("this is err hotfix")
+	fmt.Println("this is err 我的天啊")
 }
 
 func DoInfo() {
-	fmt.Println("this is info hotfix")
+	fmt.Println("this is info 你的地啊")
 }
